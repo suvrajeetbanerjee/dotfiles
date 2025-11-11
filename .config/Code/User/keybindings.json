@@ -1,0 +1,7 @@
+[
+  {
+    "key": "ctrl+a w",
+    "command": "workbench.action.terminal.selectAll",
+    "when": "terminalFocus"
+  }
+]
